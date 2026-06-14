@@ -1,0 +1,33 @@
+{
+  "name": "999Dice",
+  "symbol": "DICE",
+  "description": "999Dice Solana-powered dice betting platform with automated strategies and blockchain-based $DICE token mining.",
+  "image": "https://raw.githubusercontent.com/999dicedotgames/dice-token-metadata/main/999dice.jpg",
+  "external_url": "https://999dice.app",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/999dicedotgames/dice-token-metadata/main/999dice.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "name": "999Dice",
+        "site": "https://x.com/999dicegames"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://999dice.app",
+    "twitter": "https://x.com/999dicegames"
+  },
+  "creator": {
+    "name": "999Dice",
+    "site": "https://x.com/999dicegames"
+  },
+  "website": "https://999dice.app",
+  "twitter": "https://x.com/999dicegames"
+}
